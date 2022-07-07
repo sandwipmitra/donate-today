@@ -101,15 +101,17 @@ h3{
 }
 
 /*section three*/
-
+.donate-plan{
+    
+}
 .donate-plan-text{
     text-align: center;
     margin-top: 150px;
 }
 .donate-plan-box{
     display: flex;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 70px;
+    margin-right: ;
 }
 .donate-plan-box1{
     background-color:rgb(198, 228, 228);
