@@ -1,6 +1,28 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
+h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+h3{
+    font-size: 15px;
+    font-weight: 400;
+}
+.first-sec{
+    height: 100vh;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color:antiquewhite;
+    margin-top: -50px;
+}
+.donate-now{
+    padding-top: 200px;
+}
+
 .donate-btn{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
