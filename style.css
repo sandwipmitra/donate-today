@@ -138,7 +138,7 @@ h3{
     background-image: linear-gradient(red, tomato);
     color: white;
     font-weight: 600;
-    padding: 10px 40px;
+    padding: 7px 40px;
     border: none;
     border-radius: 5px;
     
@@ -161,6 +161,10 @@ h3{
 
 footer{
     text-align: center;
-    
     margin-top: 150px;
+    background-color: black;
+    color: white;
+}
+footer p{
+    text-align: center;
 }
