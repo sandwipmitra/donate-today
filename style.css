@@ -25,8 +25,142 @@ h3{
 
 .donate-btn{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(blue, tomato);
     color: white;
     font-weight: 600;
     padding: 10px 40px;
     border-radius: 20px;
+}
+
+/*section two*/
+.second-sec{
+    text-align: center;
+}
+.dotate-amt{
+    display: flex;
+    margin-left: 200px;
+    margin-bottom: 50px;
+}
+.donate-amt1{
+    padding: 10px 20px;
+    background-color: rgb(241, 233, 233);
+    margin-right: 10px;
+    text-align:justify;
+}
+.donate-amt1 a{
+    text-decoration: none;
+    font-size: 40px; 
+}
+.donate-amt2{
+    padding: 10px 20px;
+    background-color: rgb(241, 216, 216);
+    margin-right: 10px;
+    border: 1px solid red;
+}
+.donate-amt2 a{
+    text-decoration: none;
+    font-size: 40px;
+}
+.donate-amt3{
+    padding: 10px 20px;
+    background-color: rgb(241, 233, 233);
+    margin-right: 10px;
+}
+.donate-amt3 a{
+    text-decoration: none;
+    font-size: 40px;
+}
+.donate-amt4{
+    padding: 10px 20px;
+    background-color: rgb(241, 233, 233);
+    margin-right: 10px;
+}
+.donate-amt4 a{
+    text-decoration: none;
+    font-size: 40px;
+}
+.donate-amt5{
+    padding: 10px 20px;
+    background-color: rgb(241, 233, 233);
+}
+.donate-amt5 a{
+    text-decoration: none;
+    font-size: 40px;
+}
+.other-amt{
+    margin-bottom: 20px;
+}
+.other-amt input{
+    font-size: 30px;
+    text-align: center;
+    border: none;
+}
+
+/*section three*/
+
+
+
+
+
+/*section four*/
+.lives{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+
+/*section five*/
+.survive{
+    display: flex;
+    margin-top: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+/*section six*/
+.updates{
+    text-align: center;
+    
+    margin-top: 150px;
+}
+.updates-btn{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    color: white;
+    font-weight: 600;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+    
+}
+.updates-box{
+    background-color: rgb(228, 226, 226);
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 5px;
+}
+.updates-subs{
+    background-color:rgb(255, 244, 223);
+    width: 50%;
+    margin-left: 270px;
+    padding: 60px 80px;
+}
+
+/*section seven*/
+
+footer{
+    text-align: center;
+    
+    margin-top: 150px;
+}
